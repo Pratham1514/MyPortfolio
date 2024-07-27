@@ -19,6 +19,7 @@ const Skills = () => {
         <SkillList src={checkMarkIcon} skill="Tailwind CSS" />
         <SkillList src={checkMarkIcon} skill="Bootstrap" />
         <SkillList src={checkMarkIcon} skill="Git" />
+        <SkillList src={checkMarkIcon} skill="Figma" />
       </div>
       <hr />
       <div className={styles.skillList}>
