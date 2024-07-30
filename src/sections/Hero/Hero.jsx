@@ -57,7 +57,7 @@ const Hero = () => {
         </span>
 
         <p className={styles.description}>
-          Turning ideas into innovative solutions with code. Through this portfolio, I intend to showcase my technical proficiency, creativity, and dedication to excellence in software development.
+          "Turning ideas into innovative solutions with code". Through this portfolio, I intend to showcase my technical proficiency, creativity, and dedication to excellence in software development.
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
