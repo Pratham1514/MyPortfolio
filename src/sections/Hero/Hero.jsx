@@ -57,7 +57,7 @@ const Hero = () => {
         </span>
 
         <p className={styles.description}>
-          As a highly motivated and detail-oriented software developer, I aim to leverage my academic background and hands-on project experience to build innovative and efficient software solutions. My objective is to secure a challenging role where I can apply my programming, problem-solving, and collaboration skills while continuously learning and contributing to the growth and success of a dynamic organization. Through this portfolio, I intend to showcase my technical proficiency, creativity, and dedication to excellence in software development.
+          Turning ideas into innovative solutions with code. Through this portfolio, I intend to showcase my technical proficiency, creativity, and dedication to excellence in software development.
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
