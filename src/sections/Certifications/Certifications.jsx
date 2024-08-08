@@ -2,8 +2,8 @@ import styles from "./CertificationsStyles.module.css";
 import certificate1 from "../../assets/front-google.png";
 import certificate2 from "../../assets/front-devtown.png";
 import CertificateCard from "../../common/CertificateCard";
-import certificate3 from '../../assets/backend-cer-devtown.pdf'
-import certificate4 from '../../assets/backend-cer-google.pdf'
+import certificate3 from '../../assets/backend-devtown.png'
+import certificate4 from '../../assets/backend-gds.png'
 
 const Certifications = () => {
   return (
