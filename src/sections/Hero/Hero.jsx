@@ -57,8 +57,7 @@ const Hero = () => {
         </span>
 
         <p className={styles.description}>
-          Passionate front-end developer dedicated to creating visually stunning
-          and highly functional web applications.
+          "Turning ideas into innovative solutions with code". Through this portfolio, I intend to showcase my technical proficiency, creativity, and dedication to excellence in software development.
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
