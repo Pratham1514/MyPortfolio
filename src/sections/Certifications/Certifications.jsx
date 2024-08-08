@@ -24,13 +24,13 @@ const Certifications = () => {
         />
         <CertificateCard
           src={certificate3}
-          link="https://cert.devtown.in/verify/Z2f3Qaq"
+          link="https://cert.devtown.in/verify/Z1SGuXJ"
           h3="Back-end Development"
           p="DevTown"
         />
         <CertificateCard
           src={certificate4}
-          link="https://cert.devtown.in/verify/Z2f3Qaq"
+          link="https://cert.devtown.in/verify/Z1bTydW"
           h3="Back-end Development"
           p="GDS Club"
         />
