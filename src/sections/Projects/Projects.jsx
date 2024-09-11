@@ -2,6 +2,7 @@ import styles from "./ProjectsStyles.module.css";
 import brainwave from "../../assets/background1.jpg";
 import MoneyTracker from "../../assets/money-tracker1.png";
 import ProjectCard from "../../common/ProjectCard";
+import fileShare from '../../assets/icons8-file-share-96.png'
 
 const Projects = () => {
   return (
@@ -19,6 +20,12 @@ const Projects = () => {
           link="https://github.com/Pratham1514/money-tracker"
           h3="Money Tracker"
           p="Money Tracker App"
+        />
+        <ProjectCard
+          src={fileShare}
+          link="https://github.com/Pratham1514/ShareLink-file-sharing"
+          h3="File Sharing App"
+          p="Simple app to share files"
         />
       </div>
     </section>
