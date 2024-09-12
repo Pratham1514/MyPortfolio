@@ -4,7 +4,7 @@
   text-align: center;
 
   img {
-    max-width: 250px;
+    max-width: 170px;
     align-self: center;
     background-color: var(--project-card-bg);
     border-radius: 20px;
@@ -19,6 +19,12 @@
 
   a:hover {
     transform: scale(1.05);
+  }
+
+  p{
+    width: 200px;
+    text-wrap: wrap;
+    text-align: center;
   }
 }
 
